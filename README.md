@@ -1,1 +1,1 @@
-# project-2
+# a simple wordle api implementation using SpringBoot
