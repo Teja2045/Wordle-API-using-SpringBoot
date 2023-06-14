@@ -1,1 +1,1 @@
-# a simple wordle api implementation using SpringBoot
+# a simple Wordle API implementation using SpringBoot
